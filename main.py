@@ -830,6 +830,3 @@ def criminalupdate(username,criminalid):
         else:
             return render_template('notallowed.html',username=username)
     return redirect('/stafflogin')
-
-if __name__=="__main__":
-    app.run(debug=True)
