@@ -70,7 +70,7 @@ nbclient==0.10.0
 nbconvert==7.16.3
 nbformat==5.10.3
 nest-asyncio==1.6.0
-numpy==1.21.6
+numpy==1.21.5
 opt-einsum==3.3.0
 optree==0.11.0
 overrides==7.7.0
