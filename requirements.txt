@@ -31,6 +31,7 @@ fqdn==1.5.1
 gast==0.5.4
 google-pasta==0.2.0
 grpcio==1.62.1
+gunicorn==22.0.0
 h11==0.14.0
 h5py==3.10.0
 httpcore==1.0.5
@@ -91,6 +92,7 @@ pypiwin32==223
 python-dateutil==2.9.0.post0
 python-json-logger==2.0.7
 pyttsx3==2.90
+pywin32==306
 pywinpty==2.0.13
 PyYAML==6.0.1
 pyzmq==25.1.2
