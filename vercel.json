@@ -2,10 +2,9 @@
     "version": 2,
     "builds": [
         {
-            "src": "./main.py",
+            "src": "/main.py",
             "use": "@vercel/python",
             "config": { "runtime": "python3.9" },
-            "buildCommand": "pip install --disable-pip-version-check --target . -r /vercel/path0/requirements.txt"
         }
     ],
     "routes": [
