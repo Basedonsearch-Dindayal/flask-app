@@ -12,6 +12,7 @@ from io import StringIO
 status='none'
 # creating tables of database
 
+
 conn = sqlite3.connect('POLICE_RECORD.db')
 conn.execute('CREATE TABLE IF NOT EXISTS staff (\
 ID VARCHAR(6) PRIMARY KEY NOT NULL UNIQUE,\
