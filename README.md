@@ -1,7 +1,27 @@
-This is a Karnataka Datathon project in which our group proudly secured a spot in the top 10.
-Website features:
-**Report FIR**: Allows users to file a First Information Report (FIR) directly through the system.
-**Inspector Information**: Provides details about the inspector handling the case, including contact information and assigned jurisdiction.
-**Criminal Details**: Maintains a database of criminal records, including profiles, previous offenses, and statuses.
-**View FIR Records**: Enables users to access and review previously filed FIRs for reference or updates.
-**Graphical Data Visualization**: Displays recorded data in an intuitive graphical format (charts, graphs, etc.), aiding in analysis and decision-making.
+Karnataka Datathon Project
+🎉 Top 10 Finalist 🎉
+This project was developed as part of the Karnataka Datathon competition, where our group proudly secured a place in the Top 10.
+
+🌟 Features
+1. Report FIR
+Effortlessly file a First Information Report (FIR) through the system, ensuring a streamlined and user-friendly process.
+
+2. Inspector Information
+Access detailed information about inspectors, including their contact details and assigned jurisdictions.
+
+3. Criminal Details
+Maintain and review a comprehensive database of criminal records, including:
+
+     i.Criminal profiles
+
+     ii.Previous offenses
+
+     iii.Current statuses
+
+4. View FIR Records
+Quickly access and review previously filed FIRs for reference or updates.
+
+5. Graphical Data Visualization
+Analyze recorded data through intuitive visualizations, including charts and graphs, for better insights and decision-making.
+
+
